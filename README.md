@@ -30,6 +30,7 @@ A repository to collect and discuss presentations.
 * Heroku and PythonAnywhere
 * Python in SQL Server
 * The Zen of Python
+* CircuitPython
 
 ## Informal Survey
 
